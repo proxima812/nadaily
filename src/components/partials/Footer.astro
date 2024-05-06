@@ -1,0 +1,11 @@
+---
+import MadeIn from '../ui/madeIn.astro'
+
+const { container_max_w } = Astro.props
+---
+
+<footer class="py-5 bg-zinc-100">
+  <div class:list={`${container_max_w ?? "max-w-6xl"} container mx-auto px-5`}>
+    <p class="text-right"><i>Независимый комитет</i>, <b>SamGold</b></p>
+  </div>
+</footer>
