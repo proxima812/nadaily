@@ -4,7 +4,7 @@ description: "Ежедневные размышления АН - 6 мая.   П�
 
 id: "127"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "maj"
 ---
 

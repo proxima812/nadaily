@@ -4,7 +4,7 @@ description: "Ежедневные размышления АН - 10 мая. По
 
 id: "131"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "maj"
 ---
 

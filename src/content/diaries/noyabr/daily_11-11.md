@@ -4,7 +4,7 @@ description: "Ежедневные размышления АН - 11 ноября
 
 id: "316"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "noyabr"
 ---
 

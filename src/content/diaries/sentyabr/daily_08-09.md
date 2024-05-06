@@ -4,7 +4,7 @@ description: "Ежедневные размышления АН - 8 сентяб�
 
 id: "252"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "sentyabr"
 ---
 

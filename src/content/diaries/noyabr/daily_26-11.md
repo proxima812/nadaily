@@ -4,7 +4,7 @@ description: "Ежедневные размышления АН - 26  ноябр�
 
 id: "331"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "noyabr"
 ---
 

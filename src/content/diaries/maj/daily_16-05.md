@@ -4,7 +4,7 @@ description: "Ежедневные размышления АН - 16 мая. Во
 
 id: "137"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "maj"
 ---
 

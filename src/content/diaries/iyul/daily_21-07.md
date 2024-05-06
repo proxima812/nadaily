@@ -4,7 +4,7 @@ description: "Ежедневные размышления АН - 21 июля.  �
 
 id: "203"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "iyul"
 ---
 

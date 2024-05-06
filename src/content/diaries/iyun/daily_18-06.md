@@ -4,7 +4,7 @@ description: "Ежедневные размышления АН - 18 июня. К
 
 id: "170"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "iyun"
 ---
 

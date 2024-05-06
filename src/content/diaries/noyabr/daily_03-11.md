@@ -4,7 +4,7 @@ description: "Ежедневные размышления АН - 3 ноября.
 
 id: "308"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "noyabr"
 ---
 

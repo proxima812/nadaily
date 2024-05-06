@@ -4,7 +4,7 @@ description: "Ежедневные размышления АН - 9 июня.  С
 
 id: "161"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "iyun"
 ---
 

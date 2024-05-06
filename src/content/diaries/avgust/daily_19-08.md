@@ -4,7 +4,7 @@ description: "Ежедневные размышления АН - 19 август
 
 id: "232"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "avgust"
 ---
 

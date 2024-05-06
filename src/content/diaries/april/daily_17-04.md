@@ -4,7 +4,7 @@ description: "Ежедневные размышления АН - 17 апреля
 
 id: "108"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "april"
 ---
 

@@ -4,7 +4,7 @@ description: "Ежедневные размышления АН - 28 апреля
 
 id: "119"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "april"
 ---
 

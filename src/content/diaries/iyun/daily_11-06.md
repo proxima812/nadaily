@@ -4,7 +4,7 @@ description: "Ежедневные размышления АН - 11 июня. Ж
 
 id: "163"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "iyun"
 ---
 

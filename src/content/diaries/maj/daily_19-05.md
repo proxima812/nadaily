@@ -4,7 +4,7 @@ description: "Ежедневные размышления АН - 19 мая. Ан
 
 id: "140"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "maj"
 ---
 

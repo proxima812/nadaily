@@ -4,7 +4,7 @@ description: "Ежедневные размышления АН - 27 мая. Пр
 
 id: "148"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "maj"
 ---
 

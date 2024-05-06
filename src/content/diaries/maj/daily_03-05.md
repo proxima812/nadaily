@@ -4,7 +4,7 @@ description: "Ежедневные размышления АН - 3 мая. Де�
 
 id: "124"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "maj"
 ---
 

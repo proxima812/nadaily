@@ -4,7 +4,7 @@ description: "Ежедневные размышления АН - 16 феврал
 
 id: "47"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "fevral"
 ---
 

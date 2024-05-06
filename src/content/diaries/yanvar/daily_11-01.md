@@ -4,7 +4,7 @@ description: "Ежедневные размышления АН - 11 января
 
 id: "11"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "yanvar"
 ---
 

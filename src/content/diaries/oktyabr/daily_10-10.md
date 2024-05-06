@@ -4,7 +4,7 @@ description: "Ежедневные размышления АН - 10 октябр
 
 id: "284"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "oktyabr"
 ---
 

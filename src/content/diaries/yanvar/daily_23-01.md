@@ -4,7 +4,7 @@ description: "Ежедневные размышления АН - 23 января
 
 id: "23"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "yanvar"
 ---
 

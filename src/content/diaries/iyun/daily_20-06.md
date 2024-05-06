@@ -4,7 +4,7 @@ description: "Ежедневные размышления АН - 20 июня. Р
 
 id: "172"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "iyun"
 ---
 

@@ -4,7 +4,7 @@ description: "Ежедневные размышления АН - 24 декабр
 
 id: "359"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "dekabr"
 ---
 

@@ -4,7 +4,7 @@ description: "Ежедневные размышления АН - 13 декабр
 
 id: "348"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "dekabr"
 ---
 

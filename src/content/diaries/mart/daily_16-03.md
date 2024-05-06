@@ -4,7 +4,7 @@ description: "Ежедневные размышления АН - 16 марта. 
 
 id: "76"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "mart"
 ---
 

@@ -1,4 +1,4 @@
-import { config } from '@/settings'
+import { config } from "@/settings"
 import rss from "@astrojs/rss"
 import { getCollection } from "astro:content"
 

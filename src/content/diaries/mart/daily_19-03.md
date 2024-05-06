@@ -4,7 +4,7 @@ description: "Ежедневные размышления АН - 19 марта. 
 
 id: "79"
 heroImage: ""
-pubDate: 2023-05-04
+datePublished: 2023-05-04
 moth: "mart"
 ---
 
