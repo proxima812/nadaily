@@ -53,7 +53,7 @@ const { Content } = await post.render()
 						>
 							<Icon name="mdi:arrow-left-bold" />
 							{prevPost.data.title.length > 20
-								? `${prevPost.data.title.substring(0, 20)}...`
+								? `${prevPost.data.title.substring(0, 10)}...`
 								: prevPost.data.title}
 						</a>
 					)}
@@ -63,7 +63,7 @@ const { Content } = await post.render()
 							href={`/diaries/${nextPost.slug}`}
 						>
 							{nextPost.data.title.length > 20
-								? `${nextPost.data.title.substring(0, 20)}...`
+								? `${nextPost.data.title.substring(0, 10)}...`
 								: nextPost.data.title}{" "}
 							<Icon name="mdi:arrow-right-bold" />
 						</a>
@@ -73,7 +73,7 @@ const { Content } = await post.render()
 		}
 	</nav>
 
-	<article class="article prose text-justify lg:prose-lg max-w-2xl mx-auto">
+	<article class="article prose prose-h1:text-start text-justify lg:prose-lg max-w-2xl mx-auto">
     <h1>{title}</h1>
 		<Content />
 	</article>
