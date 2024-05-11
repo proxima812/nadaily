@@ -97,10 +97,16 @@ const { Content } = await post.render()
 				bulletListMarker: "-",
 				codeBlockStyle: "fenced",
 			})
+      	turndownService.addRule("bold", {
+				filter: "h1",
+				replacement: function (content) {
+					return "🔷 **" + content + "**"
+				},
+			})
 			turndownService.addRule("bold", {
 				filter: "h2",
 				replacement: function (content) {
-					return "🔻 **" + content + "**"
+					return "🔷 **" + content + "**"
 				},
 			})
 			turndownService.addRule("italic", {
